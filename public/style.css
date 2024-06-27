@@ -2,3 +2,7 @@ body {
     background-color: black;
     color: white;
 }
+
+img {
+    height: calc(100vh - 48px);
+}
